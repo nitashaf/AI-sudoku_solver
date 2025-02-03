@@ -1,2 +1,2 @@
-# AI-Sokodu_Solver
-AI Backtracking, local search and GA used to solve Sokodu game puzzles
+# AI Projects
+This repository has all my class projects in which we implemented AI algorithms
